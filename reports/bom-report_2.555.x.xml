@@ -149,7 +149,6 @@
     <testcase split="split-11:2.555.x" name="azure-credentials-plugin" classname="pct-report.azure-credentials-plugin" time="57.092" readyin="211.734" attempt="1"/>
     <testcase split="split-11:2.555.x" name="azure-storage-plugin" classname="pct-report.azure-storage-plugin" time="63.599" readyin="211.734" attempt="1"/>
     <testcase split="split-11:2.555.x" name="commons-text-api-plugin" classname="pct-report.commons-text-api-plugin" time="59.41" readyin="148.774" attempt="1"/>
-    <testcase split="split-11:2.555.x" name="copyartifact-plugin" classname="pct-report.copyartifact-plugin" time="447.426" readyin="211.734" attempt="1"/>
     <testcase split="split-11:2.555.x" name="gitea-plugin" classname="pct-report.gitea-plugin" time="161.709" readyin="148.774" attempt="1"/>
     <testcase split="split-11:2.555.x" name="github-branch-source-plugin" classname="pct-report.github-branch-source-plugin" time="259.532" readyin="211.734" attempt="1"/>
     <testcase split="split-11:2.555.x" name="gitlab-oauth-plugin" classname="pct-report.gitlab-oauth-plugin" time="46.915" readyin="211.734" attempt="1"/>
